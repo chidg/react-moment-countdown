@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiagozanetti/react-moment-countdown.git"
+    "url": "git+https://github.com/chidg/react-moment-countdown.git"
   },
   "keywords": [
     "react",
